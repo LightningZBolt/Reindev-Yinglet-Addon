@@ -1,10 +1,13 @@
 ```YAML
 source: https://codeberg.org/SelfDugGrave/ReIndev-Yinglish
+
 ```
 
 # About
 
 This is a [Yinglet](https://en.wikifur.com/wiki/Out-of-Placers) inspired language add-on for a `b1.7.3` alternate timeline mod by the name of **ReIndev** (by SilverOS.) All this language pack does is simply modify "th" with "zh." Which gives it that special Yinglet flair! That's it. For now.
+
+You can also download this over on [Modrinth](https://modrinth.com/mod/yinglish-for-reindev) if you prefer that instead!
 
 ## Installation
 
