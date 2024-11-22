@@ -1,0 +1,34 @@
+[TITLE]|Developers:
+Silveros|Creator of ReIndev, Lead Developer
+DasJafss|Co-Lead Developer
+Fox2Code|Developer
+icanttellyou|Developer
+Former Developers|MiTask, jcdwalle
+|<hr>
+[TITLE]|Sound and Music
+C418|Music
+Lena Raine|Music
+Emile van Krieken|Music
+Markus Alexei Persson|Music
+Freesound.org|Sound FX
+|<hr>
+[TITLE]|Playtesters
+:Atilist|AxelScaar
+:Captain_S0L0|GeneralGuy64
+:LemoCoffee|MrZmiley
+:Ottaken|Sandfops
+:spatialmisery|Yanosky
+|<hr>
+[TITLE]|Additional credits
+jonkadelic|Creator of Photo Mode
+Captain_S0L0|Improved GUI item movement code 
+M17Glock|Helped with improving trapdoor code
+na_th_an|Helped with expanding the texture index
+alexcrish|Inspiration for leaf and blossom particles
+|<hr>
+[TITLE]|Honorable mentions
+:MrZmiley|MrLordSith
+:Arenovas|DirtPiper
+:L06AN_|Lemuzawa <3
+|<hr>
+© Mojang Studios. Do not distribute.|© 2022 Silveros. All Rights Reserved.
