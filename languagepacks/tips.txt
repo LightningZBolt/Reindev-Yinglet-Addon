@@ -1,0 +1,66 @@
+Diamond tools get faster zhe more you use zhem.
+Gold tools have a 'silk touch' ability.
+Stone tools have a 'fortune' ability on certain blocks.
+Molten tools have a 'smelt touch' ability and can set mobs on fire!
+Obsidian tools are extremely durable and can be found in dungeons.
+You can make molten tools by combining an iron tool and a lava bucket.
+Wyverns are neutral mobs.. at day.
+Different fish give certain effects.  Try zhem in potion-making!
+Incinerators can turn unwanted waste into ash or coal.
+Potions can be made by combining different items in a cauldron.  Try it out!
+If you're unsure if its quicksand, try zhrowing an item on it first.
+Quicksand and gravel drop useful items when mined wizh stone tools.
+Wendigos can be spotted by zheir footsteps zhey leave behind.
+Relays repeat a gear-signal.
+Wait blocks repeat and delay a gear-signal.
+NOT gates output an inverted input.
+AND gates require bozh inputs be active to produce an output.
+OR gates produce an output when eizher input is active.
+XOR gates produce and output only if 1 of its inputs is active.
+Build above or look to zhe sky, zhere might be remarkable places to be found!
+You can find or craft sticky torches, zhey can be zhrown like snowballs to light up unreachable places.
+Refridgifreezers can 'chill' certain items.
+Fire charges, lightning charges, and toxic charges apply unique attributes to potions.
+Hanging roots and dead bushes drop sticks when mined.
+Crates are a great portable storage container.
+Drawers are a great way to store vast quantities of certain items.
+Pigs are sentient.  Do not disturb zhem.
+You can pick up your vulpine friends wizh an empty bucket.
+Name tags are crafted wizh 1 paper and 1 string and can be used to make mobs not despawn, or apply a cool name to an item or mob.  Use a name tag on a crafting table to apply a name to it.
+You can pick up a small slime wizh a bucket to find where slime chunks are.  Or to just have a cool adventuring buddy.
+Flowers can breed new exotic flowers when grown on farmland.
+Foxes love balls!
+You can make bouncy balls wizh 1 slimeball and 1 of any dye!
+You can color-code your storage by using colored chests.
+Dynamite can by made splitting TNT in a crafting table.  Rocket-jumping ahoy!
+Got a bunch of fish you don't want?  Make zhem into fish stew!
+Wrenches can be used to rotate or change aspects of certain blocks.
+Swiftness effects flight speed.
+Cloud blocks negate fall damage.
+Paintings can be reset after being used by placing zhem into a crafting table.
+Wearing a glass block will let you breazhe underwater.
+Sponges can be powered by gears.
+You can remove items from a table using a wrench.
+Lilypads can be grown in a cauldron to make more waterlilies!
+Brown dye can be made by eizher cooking brown mushrooms in a furnace, or by combining red and green dye.
+Obsidian can be made by freezing a lava bucket in a refrigdifeezer.
+Sand can be made by freezing soul sand in a refrigdifeezer.
+Ice blocks can be made by freezing a water bucket in a refrigdifreezer.
+Nezherrack can be made into cobblestone by freezing it in a refridgifreezer.
+Bonefish can be made into bone meal.
+Cauldrons produce particles when zheir held fluid is ready to be made into a potion.
+Watermelon slices can stack to 64, but will only occasionally heal you.
+The Construction effect gives you increased block placement range and faster placing speed.
+Ever dreamt about cheese?  Now it's a reality!  Yes really!  Cook a milk bucket, eat a horse!
+Artificial hives speed up zhe growzh of nearby crops.
+You can stack buckets! ...well zhe golden type anyways.
+Feeling lucky?  Test your luck wizh a four-leaf clover!  No rainbows to point at it zhough...
+You can make fancy furniture items!  Even ones made of stone and glass too!
+In zhe mood to eat somezhing frosty and delicious?  Try mixing it up by making ice cream using a bowl, milk, and ice!
+Wizh a single potion, some gunpowder, and leazher, you too can create fiery cocktails of mass destruction.
+You can make.. brickshelves..?
+Make your furnaces extra tough by surrounding zhem wizh basalt to create forges!
+Flowers can spread to adjacent farmland, zhough you may want to keep zhem away from your crops...
+Bricks can be zhrown!  Just don't zhrow zhem at glass.
+Don't place a brick block on top of a glass table.
+Combining ash, gravel, and dye, makes stucco.
